@@ -1,0 +1,28 @@
+{
+  "name": "book-record-management-10567",
+  "version": "1.0.0",
+  "description": "Book record build with node.js and express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourav0kumar/book-record-mnagement.git"
+  },
+  "author": "sourav kumar Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sourav0kumar/book-record-mnagement/issues"
+  },
+  "homepage": "https://github.com/sourav0kumar/book-record-mnagement#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
